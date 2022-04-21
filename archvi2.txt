@@ -1,2 +1,3 @@
 agregando archivo 
 agregando texto de archvi2 en rama b
+agregando texto para la prueba de git.

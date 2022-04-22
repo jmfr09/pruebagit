@@ -1,4 +1,5 @@
 este es el primer texto.
 este es el segundo texto.
 se agrega texto en git hub
-agregando texto desde la computadora.
+agregando texto desde la computadora
+agregamos texto desde el editor en vim para ver si lo detecta git.

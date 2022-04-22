@@ -4,3 +4,4 @@ se agrega texto en git hub
 agregando texto desde la computadora
 agregamos texto desde el editor en vim para ver si lo detecta giti
 al fin conchesumare he aprendido se podria decir que git.
+agregndo para crear un ultimo push padrino.
